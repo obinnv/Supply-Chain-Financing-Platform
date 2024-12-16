@@ -15,3 +15,5 @@ Q
 !tests/banking-integration.test.ts,2/2/227a286e0d349d825484fc882ee2372d6b50533b
 Q
 !contracts/payment-automation.clar,c/a/cacc97d61b8a90836f7d1a1205624bc38636aa8f
+P
+ tests/payment-automation.test.ts,2/2/22aa999046f93ccd8556dd881dfd3187ee9b6ab9
