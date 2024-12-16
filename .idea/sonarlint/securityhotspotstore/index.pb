@@ -11,3 +11,5 @@ L
 tests/credit-scoring.test.ts,6/7/67d4e4f0fce978d00deb20f77741cc2020960d07
 R
 "contracts/banking-integration.clar,2/6/26ca6f26a8aff7b91a7615b52c6e741356740527
+Q
+!tests/banking-integration.test.ts,2/2/227a286e0d349d825484fc882ee2372d6b50533b
